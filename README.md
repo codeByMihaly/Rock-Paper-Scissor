@@ -5,8 +5,6 @@ The goal was to build the classic *Rock Paper Scissors* game in JavaScript, firs
 
  **Live Demo:**  https://codebymihaly.github.io/Rock-Paper-Scissor/
 
-
-
 ##  Features
 
 - Play Rock, Paper, Scissors against the computer  
@@ -14,10 +12,6 @@ The goal was to build the classic *Rock Paper Scissors* game in JavaScript, firs
 - Score tracking for player vs. computer  
 - Simple, clean UI (buttons + result display)  
 - Game result messages after each round  
-
-*(Ha nálad csak konzolos verzió van, ezt a részt átírhatod “Console-based version only”-ra.)*
-
----
 
 ##  What I Used
 
