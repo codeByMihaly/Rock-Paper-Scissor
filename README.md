@@ -29,4 +29,4 @@ The goal was to build the classic *Rock Paper Scissors* game in JavaScript, firs
 
 # Screenshot
 
-<img width="2531" height="1347" alt="img1" src="https://github.com/user-attachments/assets/fe301de9-ed13-45f7-919f-abe8da934816" />
+<img width="2529" height="1321" alt="img1" src="https://github.com/user-attachments/assets/56c3e51d-4851-474e-b394-6c9c33efeac6" />
